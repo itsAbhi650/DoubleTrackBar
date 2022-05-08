@@ -1,0 +1,6 @@
+C:\Users\pc\source\repos\DoubleTrackBar\DoubleTrackBar\bin\Debug\DoubleTrackBar.dll
+C:\Users\pc\source\repos\DoubleTrackBar\DoubleTrackBar\bin\Debug\DoubleTrackBar.pdb
+C:\Users\pc\source\repos\DoubleTrackBar\DoubleTrackBar\obj\Debug\DoubleTrackBar.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\DoubleTrackBar\DoubleTrackBar\obj\Debug\DoubleTrackBar.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\DoubleTrackBar\DoubleTrackBar\obj\Debug\DoubleTrackBar.dll
+C:\Users\pc\source\repos\DoubleTrackBar\DoubleTrackBar\obj\Debug\DoubleTrackBar.pdb
